@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Footprint: Designator=C10 Old Footprint=CAP0603 New Footprint=CAP1206
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100nF

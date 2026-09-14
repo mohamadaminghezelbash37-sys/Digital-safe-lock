@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Member From Class: ClassName=Sheet1 Member=
+Change Component Designator: OldDesignator= NewDesignator=1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=D1-1
+Added Pin To Net: NetName=NetC7_2 Pin=P4-1
+Added Pin To Net: NetName=NetC7_2 Pin=Q1-2
+Added Net: Name=NetC7_2
+Added Member To Class: ClassName=Sheet1 Member=Component 1 Hitsink
