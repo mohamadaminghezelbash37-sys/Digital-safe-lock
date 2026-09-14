@@ -54,6 +54,7 @@ A microcontroller-based digital lock system for a safe. The user enters a passwo
 - Always drive the solenoid through a transistor/MOSFET driver with a flyback diode across the solenoid to protect the microcontroller from back-EMF when the coil is switched off.
 
 
+
 ## 📁 Suggested Project Structure
 
 ```
