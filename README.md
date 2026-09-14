@@ -53,13 +53,6 @@ A microcontroller-based digital lock system for a safe. The user enters a passwo
 - It's recommended to add decoupling capacitors on the 7805's input and output (e.g. 100nF and 10µF–100µF) for voltage stability.
 - Always drive the solenoid through a transistor/MOSFET driver with a flyback diode across the solenoid to protect the microcontroller from back-EMF when the coil is switched off.
 
-## 🔌 Wiring Diagram
-
-> Add a table or schematic here showing how the rotary encoder, LCD, and relay/solenoid connect to the microcontroller. It's recommended to place a photo or Fritzing file of the circuit inside a `docs/` or `images/` folder and link it here:
->
-> ```markdown
-> ![Wiring Diagram](images/wiring.png)
-> ```
 
 ## 📁 Suggested Project Structure
 
